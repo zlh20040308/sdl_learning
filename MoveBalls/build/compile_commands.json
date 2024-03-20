@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/feng/code/C/sdl_learning/MoveBalls/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/MoveBalls.dir/main.c.o -c /home/feng/code/C/sdl_learning/MoveBalls/main.c",
+  "file": "/home/feng/code/C/sdl_learning/MoveBalls/main.c"
+},
+{
+  "directory": "/home/feng/code/C/sdl_learning/MoveBalls/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/MoveBalls.dir/Ball.c.o -c /home/feng/code/C/sdl_learning/MoveBalls/Ball.c",
+  "file": "/home/feng/code/C/sdl_learning/MoveBalls/Ball.c"
+},
+{
+  "directory": "/home/feng/code/C/sdl_learning/MoveBalls/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/MoveBalls.dir/Resource.c.o -c /home/feng/code/C/sdl_learning/MoveBalls/Resource.c",
+  "file": "/home/feng/code/C/sdl_learning/MoveBalls/Resource.c"
+}
+]

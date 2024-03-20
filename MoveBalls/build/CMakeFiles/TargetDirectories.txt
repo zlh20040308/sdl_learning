@@ -1,0 +1,3 @@
+/home/feng/code/C/sdl_learning/MoveBalls/build/CMakeFiles/MoveBalls.dir
+/home/feng/code/C/sdl_learning/MoveBalls/build/CMakeFiles/edit_cache.dir
+/home/feng/code/C/sdl_learning/MoveBalls/build/CMakeFiles/rebuild_cache.dir

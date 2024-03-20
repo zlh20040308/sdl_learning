@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/SDL_PollEvent.dir/main.c.o -o SDL_PollEvent  -lSDL2 

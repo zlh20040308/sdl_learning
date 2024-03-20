@@ -1,0 +1,3 @@
+/home/feng/code/C/sdl_learning/MouseEvents/build/CMakeFiles/MouseEvents.dir
+/home/feng/code/C/sdl_learning/MouseEvents/build/CMakeFiles/edit_cache.dir
+/home/feng/code/C/sdl_learning/MouseEvents/build/CMakeFiles/rebuild_cache.dir

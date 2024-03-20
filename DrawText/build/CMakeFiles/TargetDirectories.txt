@@ -1,0 +1,3 @@
+/home/feng/code/C/sdl_learning/DrawText/build/CMakeFiles/DrawText.dir
+/home/feng/code/C/sdl_learning/DrawText/build/CMakeFiles/edit_cache.dir
+/home/feng/code/C/sdl_learning/DrawText/build/CMakeFiles/rebuild_cache.dir

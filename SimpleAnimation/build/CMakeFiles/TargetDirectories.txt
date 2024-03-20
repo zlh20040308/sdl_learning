@@ -1,0 +1,3 @@
+/home/feng/code/C/sdl_learning/SimpleAnimation/build/CMakeFiles/SimpleAnimation.dir
+/home/feng/code/C/sdl_learning/SimpleAnimation/build/CMakeFiles/edit_cache.dir
+/home/feng/code/C/sdl_learning/SimpleAnimation/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/CustomCursor.dir/main.c.o CMakeFiles/CustomCursor.dir/DisplayObject.c.o CMakeFiles/CustomCursor.dir/Resource.c.o -o CustomCursor  -lSDL2 -lSDL2_image 

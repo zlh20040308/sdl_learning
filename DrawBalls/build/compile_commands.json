@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/feng/code/C/sdl_learning/DrawBalls/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/DrawBalls.dir/main.c.o -c /home/feng/code/C/sdl_learning/DrawBalls/main.c",
+  "file": "/home/feng/code/C/sdl_learning/DrawBalls/main.c"
+},
+{
+  "directory": "/home/feng/code/C/sdl_learning/DrawBalls/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/DrawBalls.dir/Ball.c.o -c /home/feng/code/C/sdl_learning/DrawBalls/Ball.c",
+  "file": "/home/feng/code/C/sdl_learning/DrawBalls/Ball.c"
+},
+{
+  "directory": "/home/feng/code/C/sdl_learning/DrawBalls/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/DrawBalls.dir/Resource.c.o -c /home/feng/code/C/sdl_learning/DrawBalls/Resource.c",
+  "file": "/home/feng/code/C/sdl_learning/DrawBalls/Resource.c"
+}
+]

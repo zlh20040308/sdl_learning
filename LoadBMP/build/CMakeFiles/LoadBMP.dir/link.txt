@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/LoadBMP.dir/main.c.o -o LoadBMP  -lSDL2 

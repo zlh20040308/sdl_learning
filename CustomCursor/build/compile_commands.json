@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/feng/code/C/sdl_learning/CustomCursor/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/CustomCursor.dir/main.c.o -c /home/feng/code/C/sdl_learning/CustomCursor/main.c",
+  "file": "/home/feng/code/C/sdl_learning/CustomCursor/main.c"
+},
+{
+  "directory": "/home/feng/code/C/sdl_learning/CustomCursor/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/CustomCursor.dir/Resource.c.o -c /home/feng/code/C/sdl_learning/CustomCursor/Resource.c",
+  "file": "/home/feng/code/C/sdl_learning/CustomCursor/Resource.c"
+}
+]

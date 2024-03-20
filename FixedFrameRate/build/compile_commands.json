@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/feng/code/C/sdl_learning/FixedFrameRate/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/FixedFrameRate.dir/main.c.o -c /home/feng/code/C/sdl_learning/FixedFrameRate/main.c",
+  "file": "/home/feng/code/C/sdl_learning/FixedFrameRate/main.c"
+}
+]

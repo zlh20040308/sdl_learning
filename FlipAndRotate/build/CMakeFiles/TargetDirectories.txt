@@ -1,0 +1,3 @@
+/home/feng/code/C/sdl_learning/FlipAndRotate/build/CMakeFiles/FlipAndRotate.dir
+/home/feng/code/C/sdl_learning/FlipAndRotate/build/CMakeFiles/edit_cache.dir
+/home/feng/code/C/sdl_learning/FlipAndRotate/build/CMakeFiles/rebuild_cache.dir

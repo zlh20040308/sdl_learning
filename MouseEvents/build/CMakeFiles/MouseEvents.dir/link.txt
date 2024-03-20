@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/MouseEvents.dir/main.c.o -o MouseEvents  -lSDL2 

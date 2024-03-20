@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/feng/code/C/sdl_learning/FollowCursor/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/CustomCursor.dir/main.c.o -c /home/feng/code/C/sdl_learning/FollowCursor/main.c",
+  "file": "/home/feng/code/C/sdl_learning/FollowCursor/main.c"
+},
+{
+  "directory": "/home/feng/code/C/sdl_learning/FollowCursor/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/CustomCursor.dir/DisplayObject.c.o -c /home/feng/code/C/sdl_learning/FollowCursor/DisplayObject.c",
+  "file": "/home/feng/code/C/sdl_learning/FollowCursor/DisplayObject.c"
+},
+{
+  "directory": "/home/feng/code/C/sdl_learning/FollowCursor/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/CustomCursor.dir/Resource.c.o -c /home/feng/code/C/sdl_learning/FollowCursor/Resource.c",
+  "file": "/home/feng/code/C/sdl_learning/FollowCursor/Resource.c"
+}
+]

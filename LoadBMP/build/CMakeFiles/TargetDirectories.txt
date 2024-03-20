@@ -1,0 +1,3 @@
+/home/feng/code/C/sdl_learning/LoadBMP/build/CMakeFiles/LoadBMP.dir
+/home/feng/code/C/sdl_learning/LoadBMP/build/CMakeFiles/edit_cache.dir
+/home/feng/code/C/sdl_learning/LoadBMP/build/CMakeFiles/rebuild_cache.dir

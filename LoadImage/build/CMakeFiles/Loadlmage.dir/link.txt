@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/Loadlmage.dir/main.c.o -o Loadlmage  -lSDL2 -lSDL2_image 

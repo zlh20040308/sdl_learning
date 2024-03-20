@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/MoveBalls.dir/main.c.o CMakeFiles/MoveBalls.dir/Ball.c.o CMakeFiles/MoveBalls.dir/Resource.c.o -o MoveBalls  -lSDL2 -lSDL2_image 

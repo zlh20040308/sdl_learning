@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/feng/code/C/sdl_learning/DragRect/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/DragRect.dir/main.c.o -c /home/feng/code/C/sdl_learning/DragRect/main.c",
+  "file": "/home/feng/code/C/sdl_learning/DragRect/main.c"
+},
+{
+  "directory": "/home/feng/code/C/sdl_learning/DragRect/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/DragRect.dir/RectShape.c.o -c /home/feng/code/C/sdl_learning/DragRect/RectShape.c",
+  "file": "/home/feng/code/C/sdl_learning/DragRect/RectShape.c"
+}
+]

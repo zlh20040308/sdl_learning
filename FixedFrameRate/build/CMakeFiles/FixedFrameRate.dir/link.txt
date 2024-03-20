@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/FixedFrameRate.dir/main.c.o -o FixedFrameRate  -lSDL2 

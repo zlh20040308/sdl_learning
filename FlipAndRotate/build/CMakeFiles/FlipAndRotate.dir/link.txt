@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/FlipAndRotate.dir/main.c.o -o FlipAndRotate  -lSDL2 

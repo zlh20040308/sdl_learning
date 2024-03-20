@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/feng/code/C/sdl_learning/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/SimpleWindow.dir/main.c.o -c /home/feng/code/C/sdl_learning/main.c",
+  "file": "/home/feng/code/C/sdl_learning/main.c"
+}
+]

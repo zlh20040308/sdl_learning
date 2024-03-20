@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/DragRect.dir/main.c.o CMakeFiles/DragRect.dir/RectShape.c.o -o DragRect  -lSDL2 

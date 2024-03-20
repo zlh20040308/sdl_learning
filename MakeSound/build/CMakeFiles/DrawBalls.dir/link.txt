@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/DrawBalls.dir/main.c.o CMakeFiles/DrawBalls.dir/Ball.c.o CMakeFiles/DrawBalls.dir/Resource.c.o -o DrawBalls  -lSDL2 -lSDL2_image 

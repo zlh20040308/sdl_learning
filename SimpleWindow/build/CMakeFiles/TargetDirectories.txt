@@ -1,0 +1,3 @@
+/home/feng/code/C/sdl_learning/build/CMakeFiles/SimpleWindow.dir
+/home/feng/code/C/sdl_learning/build/CMakeFiles/edit_cache.dir
+/home/feng/code/C/sdl_learning/build/CMakeFiles/rebuild_cache.dir

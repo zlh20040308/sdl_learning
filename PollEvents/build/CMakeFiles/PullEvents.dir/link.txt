@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/PullEvents.dir/main.c.o -o PullEvents  -lSDL2 

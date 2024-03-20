@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/feng/code/C/sdl_learning/ModifyPixes/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/ModifyPixes.dir/main.c.o -c /home/feng/code/C/sdl_learning/ModifyPixes/main.c",
+  "file": "/home/feng/code/C/sdl_learning/ModifyPixes/main.c"
+}
+]

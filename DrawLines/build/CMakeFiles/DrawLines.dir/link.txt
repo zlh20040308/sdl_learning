@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/DrawLines.dir/main.c.o -o DrawLines  -lSDL2 

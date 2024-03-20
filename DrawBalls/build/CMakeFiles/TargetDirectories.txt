@@ -1,0 +1,3 @@
+/home/feng/code/C/sdl_learning/DrawBalls/build/CMakeFiles/DrawBalls.dir
+/home/feng/code/C/sdl_learning/DrawBalls/build/CMakeFiles/edit_cache.dir
+/home/feng/code/C/sdl_learning/DrawBalls/build/CMakeFiles/rebuild_cache.dir

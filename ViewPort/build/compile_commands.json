@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/feng/code/C/sdl_learning/ViewPort/build",
+  "command": "/usr/bin/gcc   -g -std=gnu11 -o CMakeFiles/ViewPort.dir/main.c.o -c /home/feng/code/C/sdl_learning/ViewPort/main.c",
+  "file": "/home/feng/code/C/sdl_learning/ViewPort/main.c"
+}
+]
